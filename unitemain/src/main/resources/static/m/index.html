@@ -1,0 +1,16 @@
+<!DOCTYPE html><html lang=en><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"><meta name=apple-mobile-web-app-title content=加载中...><link rel=icon href=../favicon.ico><title>加载中...</title><script>;(function() {
+				//缩放比例
+				var defaultW = 375;
+				if (/Android/.test(navigator.userAgent)) {
+					var version = parseFloat(RegExp.$1);
+					if (version > 2.3) {
+						var phoneScale = parseInt(window.screen.width) / defaultW;
+						document.write('<meta name="viewport" content="width=' + defaultW + '", minimum-scale = ' + phoneScale +
+							", maximum-scale = " + phoneScale + ', user-scalable=no, target-densitydpi=device-dpi">')
+					} else {
+						document.write('<meta name="viewport" content="width=' + defaultW + ', user-scalable=no">')
+					}
+				} else {
+					document.write('<meta name="viewport" content="width=' + defaultW + ', user-scalable=no">')
+				};
+			})();</script><link href=../css/chunk-010bf0c1.af8098f7.css rel=prefetch><link href=../css/chunk-13f0d1ed.6b227e9f.css rel=prefetch><link href=../css/chunk-99e5742e.93adb6ca.css rel=prefetch><link href=../js/chunk-010bf0c1.8e9730b5.js rel=prefetch><link href=../js/chunk-13f0d1ed.e13e701a.js rel=prefetch><link href=../js/chunk-99e5742e.08200636.js rel=prefetch><link href=../css/chunk-common.a1023506.css rel=preload as=style><link href=../css/chunk-vendors.1598dfe2.css rel=preload as=style><link href=../css/m.5971cdce.css rel=preload as=style><link href=../js/chunk-common.c4774c8f.js rel=preload as=script><link href=../js/chunk-vendors.677373c2.js rel=preload as=script><link href=../js/m.95f511f3.js rel=preload as=script><link href=../css/chunk-vendors.1598dfe2.css rel=stylesheet><link href=../css/chunk-common.a1023506.css rel=stylesheet><link href=../css/m.5971cdce.css rel=stylesheet></head><body><noscript><strong>We're sorry but vue_pages doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=app></div><script src=../js/chunk-vendors.677373c2.js></script><script src=../js/chunk-common.c4774c8f.js></script><script src=../js/m.95f511f3.js></script></body></html>

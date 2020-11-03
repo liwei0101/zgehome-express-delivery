@@ -1,0 +1,154 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+._一级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+._表单提示 {
+  color:#999999;
+}
+._表单禁用 {
+}
+._流程形状 {
+}
+.box_2 {
+}
+.line {
+}
+.image {
+}
+.table_cell {
+}
+.paragraph {
+  text-align:left;
+}
+.heading_2 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.connector {
+}
+.ellipse {
+}
+.box_1 {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+._连接 {
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+._连接线 {
+  color:#000000;
+}
+._图片_ {
+}
+.box_21 {
+}
+.ellipse1 {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.button {
+}
+.arrow {
+}
+.box_3 {
+}
+.checkbox {
+  text-align:left;
+}
+.flow_shape {
+}
+.connector1 {
+}
+.shape {
+}
+._36号字_顶部标题、大按钮、弹窗提示主标题_ {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.image1 {
+  color:#000000;
+}
+.radio_button {
+  text-align:left;
+}
+.label1 {
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.box_11 {
+}
+.icon {
+}
+textarea, select, input, button { outline: none; }
